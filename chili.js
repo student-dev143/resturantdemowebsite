@@ -99,7 +99,7 @@ whatsappBtn.addEventListener("click", () => {
 
     let phoneNumber = "03012271763";
 
-   let whatsappURL = `https://wa.me/923142206286?text=${encodeURIComponent(message)}`;
+   let whatsappURL = `https://wa.me/03012271763?text=${encodeURIComponent(message)}`;
 
     window.open(whatsappURL, "_blank");
 });
