@@ -97,7 +97,7 @@ whatsappBtn.addEventListener("click", () => {
     message += `\nTotal Products: ${cartItems.length}`;
     message += `\nGrand Total: Rs ${total}`;
 
-    let phoneNumber = "03142206286";
+    let phoneNumber = "03012271763";
 
    let whatsappURL = `https://wa.me/923142206286?text=${encodeURIComponent(message)}`;
 
